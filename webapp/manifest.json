@@ -146,6 +146,20 @@
                 "component": {
                   "name": "sap.suite.ui.generic.template.ObjectPage"
                 }
+              },
+              "ObjectPage|A_ProductBasicText": {
+                "component": {
+                  "name": "sap.suite.ui.generic.template.ObjectPage"
+                },
+                "entitySet": "A_ProductBasicText",
+                "navigationProperty": "to_ProductBasicText"
+              },
+              "ObjectPage|A_ProductUnitsOfMeasure": {
+                "component": {
+                  "name": "sap.suite.ui.generic.template.ObjectPage"
+                },
+                "entitySet": "A_ProductUnitsOfMeasure",
+                "navigationProperty": "to_ProductUnitsOfMeasure"
               }
             }
           }
